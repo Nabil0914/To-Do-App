@@ -1,7 +1,5 @@
 # To-Do-App
 A user-friendly web application for managing daily tasks, featuring persistent storage that retains tasks even after refreshing the page or reopening the browser.
-## Project Description: Web-Based To-Do App
-
 ### Overview
 The Web-Based To-Do App is a user-friendly application designed to help individuals manage their daily tasks efficiently. This project focuses on providing a seamless experience by ensuring that tasks are saved and persist even when the current tab is refreshed. This functionality enhances usability, making it a reliable tool for task management.
 
