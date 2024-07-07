@@ -13,7 +13,6 @@ The Web-Based To-Do App is a user-friendly application designed to help individu
 - **HTML**: For structuring the web application.
 - **CSS**: For styling the user interface to make it visually appealing.
 - **JavaScript**: For adding functionality to the app, including task management and data persistence.
-- **Web Storage API**: For storing task data locally in the user's browser.
 
 ### Implementation Details
 1. **HTML**: 
